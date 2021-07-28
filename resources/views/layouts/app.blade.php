@@ -27,5 +27,6 @@
             @yield('content')
         </div>
     </div>
+    @yield('ckeditor')
 </body>
 </html>
